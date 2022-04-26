@@ -1,0 +1,27 @@
+{
+  "1": {
+    "session": "2021-22",
+    "first_name": "Ash",
+    "last_name": "Musk ",
+    "class": "LKG",
+    "section": "A",
+    "gender": "Male",
+    "father": "Elon",
+    "mother": "Allen",
+    "mobile": "1618031234",
+    "address": "Texas"
+  },
+  "2": {
+    "session": "2020-21",
+    "first_name": "sb",
+    "last_name": "rs",
+    "class": "1",
+    "section": "A",
+    "gender": "Male",
+    "father": "sang",
+    "mother": "rih",
+    "mobile": "980546567",
+    "address": "dxd"
+  },
+  "3": "This Record is Deleted from System"
+}
